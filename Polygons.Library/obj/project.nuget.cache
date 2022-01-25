@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pq21h7Lj/tq7GT4NvSCWnwSz1raKS7WEVa7gvG5COwt7B9NZUDut9krWVlMg5CjyzWAqqtkKgDrRM/eRQd3P5Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\m0mon\\OneDrive\\Desktop\\C# Jan 2022\\C# Interfaces\\02\\demos\\before\\Polygons\\Polygons.Library\\Polygons.Library.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.WindowsDesktop.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Ref. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
